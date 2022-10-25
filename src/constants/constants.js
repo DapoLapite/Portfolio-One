@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/1.png',
       tags: ['JavaScript', 'Parcelv2', 'Fracty', 'Node'],
     source: 'https://bon-app-etit.netlify.app/',
-    visit: 'https://google.com',
+    visit: 'https://github.com/DapoLapite/Bon-App-Etit',
     id: 0,
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/2.png',
     tags: ['React', 'JavaScript', 'Redux', 'RapidAPI'],
     source: 'https://dapify-lyriks.netlify.app/',
-    visit: 'https://google.com',
+    visit: 'https://github.com/DapoLapite/dapify',
     id: 1,
   },
   {
@@ -23,7 +23,7 @@ export const projects = [
       image: '/images/3.jpg',
       tags: ['JavaScript', 'Socket.io'],
     source: 'https://multiplayer-snakegame.netlify.app/',
-    visit: 'https://google.com',
+    visit: 'https://github.com/DapoLapite/MultiplayerSnakeGame',
     id: 2,
   },
   {
@@ -32,7 +32,7 @@ export const projects = [
     image: '/images/4.jpg',
     tags: ['React', 'Material UI5', 'RapidAPI'],
     source: 'https://daptube.netlify.app/',
-    visit: 'https://google.com',
+    visit: 'https://github.com/DapoLapite/DapoTube',
     id: 3,
   },
 ];
